@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\POO.Heili.Magdalena\POO.Heili.Magdalena\POO.Heili.Magdalena\bin\Debug\POO.Heili.Magdalena.exe.config
+C:\Users\Administrator\Desktop\POO.Heili.Magdalena\POO.Heili.Magdalena\POO.Heili.Magdalena\bin\Debug\POO.Heili.Magdalena.exe
+C:\Users\Administrator\Desktop\POO.Heili.Magdalena\POO.Heili.Magdalena\POO.Heili.Magdalena\bin\Debug\POO.Heili.Magdalena.pdb
+C:\Users\Administrator\Desktop\POO.Heili.Magdalena\POO.Heili.Magdalena\POO.Heili.Magdalena\obj\Debug\POO.Heili.Magdalena.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\POO.Heili.Magdalena\POO.Heili.Magdalena\POO.Heili.Magdalena\obj\Debug\POO.Heili.Magdalena.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\POO.Heili.Magdalena\POO.Heili.Magdalena\POO.Heili.Magdalena\obj\Debug\POO.Heili.Magdalena.exe
+C:\Users\Administrator\Desktop\POO.Heili.Magdalena\POO.Heili.Magdalena\POO.Heili.Magdalena\obj\Debug\POO.Heili.Magdalena.pdb
